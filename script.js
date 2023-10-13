@@ -35,4 +35,4 @@ function numberGuesser() {
 
 }
 
-class 
+//class 
